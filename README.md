@@ -82,6 +82,7 @@ Model menunjukkan fitur yang paling berpengaruh terhadap harga rumah:
 git clone https://github.com/username/boston-house-price-prediction.git
 cd boston-house-price-prediction
 
+```
 
 🧾 Business Value Summary
 
@@ -91,3 +92,9 @@ Model ini memberikan:
 ✔️ Identifikasi faktor penting untuk strategi marketing dan development
 ✔️ Pendekatan explainable ML melalui feature importance
 ✔️ Reproducible workflow untuk deployment dan experimentation
+
+
+-- NOTE: Untuk detail project ini ada pada file ppt sebagai gambaran besar project berlangsung
+
+Muhammad Arif Budiman
+0877 8862 0153
