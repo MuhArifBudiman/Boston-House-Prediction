@@ -88,13 +88,13 @@ cd boston-house-price-prediction
 
 Model ini memberikan:
 
-✔️ Prediksi harga properti secara akurat
-✔️ Identifikasi faktor penting untuk strategi marketing dan development
-✔️ Pendekatan explainable ML melalui feature importance
-✔️ Reproducible workflow untuk deployment dan experimentation
+- ✔️ Prediksi harga properti secara akurat
+- ✔️ Identifikasi faktor penting untuk strategi marketing dan development
+- ✔️ Pendekatan explainable ML melalui feature importance
+- ✔️ Reproducible workflow untuk deployment dan experimentation
 
 
--- NOTE: Untuk detail project ini ada pada file ppt sebagai gambaran besar project berlangsung
+-- NOTE: Untuk detail project ini ada pada file pdf sebagai gambaran besar project berlangsung dan hasil EDA di dalam folder notebook
 
-Muhammad Arif Budiman
-0877 8862 0153
+- Muhammad Arif Budiman
+- 0877 8862 0153
